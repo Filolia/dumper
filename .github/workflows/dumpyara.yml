@@ -57,4 +57,4 @@ jobs:
               sudo bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.1.0.SJOMIXM/miui_MERLINGlobal_V13.0.1.0.SJOMIXM_23a9625209_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.1.0.SJOCNXM/merlin_images_V13.0.1.0.SJOCNXM_20220607.0000.00_12.0_cn_51efaee93c.tgz
